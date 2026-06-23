@@ -44,9 +44,9 @@ Ao quebrar a análise de Cohort horizontal utilizando a coluna `acquisition_chan
 <img width="829" height="571" alt="image" src="https://github.com/user-attachments/assets/320d810d-2f88-43d7-b756-d850449fd402" />
 
 
-* Resiliência a Longo Prazo (Safra 2023-01): "A coorte de Janeiro (2023-01) mostra um engajamento fantástico. Mesmo após 7 meses de cadastro (período 7), a retenção volta a atingir 100%. Isso prova que o usuário adquirido via e-mail cria um hábito de leitura sólido e consistente de longo prazo, mantendo o produto vivo na rotina dele.
+* Resiliência a Longo Prazo (Safra 2023-01): "A **corte de Janeiro (2023-01)** mostra um engajamento fantástico. Mesmo após **7 meses de cadastro (período 7)**, a retenção volta a atingir 100%. Isso prova que o usuário cria um hábito de leitura sólido e consistente de longo prazo, mantendo o produto vivo na rotina dele.
 
-* "A "Morte" Pós-Período 3 (Safras Recentes): "Nota-se um padrão claro de quebra nas safras de Abril (2023-04) e Maio (2023-05). Elas mantêm um engajamento perfeito até o período 3 e depois morrem completamente para 0%."
+* "A "Morte" Pós-Período 3 (Safras Recentes): "Nota-se um padrão claro de quebra nas **safras de Abril (2023-04) e Maio (2023-05)**. Elas mantêm um engajamento perfeito até o período 3 e depois morrem completamente para 0%."
 
 ### 2. Análise do Perfil de Leitor (Tempo de Reação)
 
@@ -56,9 +56,9 @@ Ao quebrar a análise de Cohort horizontal utilizando a coluna `acquisition_chan
 
 Considerando a premissa de negócio de que o disparo ocorre rigorosamente entre 06h00 e 06h20, a análise de tempo de resposta mostrou que:
 
-* O comportamento do leitor é majoritariamente tardio. A barra mais longa é justamente a do perfil "4. Retardatário (Mais de 9h)", que concentra 42.4% de toda a sua base de interações.
+* O comportamento do leitor é majoritariamente tardio. A barra mais longa é justamente a do perfil "4. Retardatário (Mais de 9h)", que concentra **42.4% de toda a sua base de interações**.
 
-* O Cenário: Se somarmos o perfil "3. Almoço" com o "4. Retardatário", temos 69% dos leitores abrindo a newsletter muitas horas após o disparo das 06h00.Apenas 12.8% das pessoas leem o e-mail no "Café da Manhã" (na primeira hora).
+* O Cenário: Se somarmos o perfil "3. Almoço" com o "4. Retardatário", temos **69% dos leitores abrindo a newsletter muitas horas após o disparo das 06h00**. Apenas 12.8% das pessoas leem o e-mail no "Café da Manhã" (na primeira hora).
 
 **Risco: O leitor provavelmente já viu as principais notícias do dia em portais ou redes sociais, o que reduz drasticamente a relevância percebida do produto e aumenta o risco de Churn no longo prazo.**
 
