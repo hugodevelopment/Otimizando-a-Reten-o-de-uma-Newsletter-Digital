@@ -1,5 +1,3 @@
-# Otimizando-a-Reten-o-de-uma-Newsletter-Digital
-
 # 📬 Analytics de Produto & Growth: Otimizando a Retenção de uma Newsletter Digital
 
 ## 🎯 O Objetivo do Projeto
@@ -34,10 +32,8 @@ A análise foi realizada integrando dois datasets principais com uma relação d
 ## 🧽 Engenharia de Dados & Tratamento de "Dado Sujo"
 Antes de gerar qualquer indicador de negócio, apliquei técnicas rigorosas de manipulação de dados com o **Pandas** para garantir a integridade da análise:
 
-*   **Otimização de Memória:** O dataset de eventos superava 170MB. Realizei uma filtragem cirúrgica de colunas em nível de carregamento, mantendo apenas os campos essenciais de rastreio e economizando memória RAM do pipeline.
+*   **Otimização de Memória:** O dataset de eventos superava 170MB. Realizei uma filtragem de colunas em nível de carregamento, mantendo apenas os campos essenciais visando a economia memória RAM do pipeline.
 *   **Tratamento de Inconsistências Temporais:** Durante a análise exploratória, detectei a presença de índices de período (`period_index`) negativos. Isso indicava eventos gravados pelo sistema antes da data oficial de cadastro do usuário. Apliquei um filtro booleano estrito (`period_index >= 0`) para limpar o ruído e focar puramente no ciclo de vida do cliente pós-onboarding.
-*   **Normalização de Séries Temporais:** Utilizei o método `.normalize()` do Pandas para zerar os horários flutuantes dos eventos e reconstruir a coluna de horário fixo de disparo (06h00) via `to_timedelta()`, permitindo o cálculo exato de velocidade de reação do leitor.
-
 ---
 
 ## 📊 Principais Insights de Growth obtidos no Python
