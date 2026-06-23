@@ -68,6 +68,7 @@ O leitor provavelmente já viu as principais notícias do dia em portais ou rede
 
 Com base nos dados reais consolidados, as recomendações estratégicas para o time de Produto e Growth são:
 
-1.  **Eficiência de Budget:** Pausar ou reduzir em 15% o orçamento de campanhas focadas em *Paid Search*, redirecionando essa verba para estratégias de SEO e parcerias de co-marketing orgânico, visto que o CAC (Custo de Aquisição) de mídia paga não está se pagando devido ao Churn imediato.
-2.  **Onboarding Preditivo:** Criar um gatilho de automação no sistema de e-mails para monitorar o perfil do usuário na primeira semana. Se o assinante recém-chegado for classificado como "Retardatário" nos primeiros 3 dias, disparar uma sequência diferenciada de reengajamento com assuntos (subjects) mais agressivos para tentar quebrar a curva de queda do primeiro mês.
+* Testes A/B de Assunto (Subject Lines Lineares): "Para tentar combater os 42.4% de retardatários, proponho estruturar testes A/B focados no assunto do e-mail. Assuntos que gerem gatilhos de curiosidade imediata ou senso de urgência (ex: 'O que você precisa saber antes das 08h') para tentar mover esses usuários para o perfil 1 e 2.
+
+* "Régua de Reengajamento Preditivo: "Devemos cruzar esse perfil com o Cohort. Se o modelo detectar que um novo assinante se comporta como 'Retardatário' por 3 dias seguidos, o sistema deve disparar um e-mail de onboarding personalizado questionando se ele prefere receber o conteúdo em outro formato ou destacando os benefícios de ler o resumo logo pela manhã para economizar tempo."
 
