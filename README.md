@@ -39,7 +39,7 @@ Antes de gerar qualquer indicador de negócio, apliquei técnicas rigorosas de m
 ## 📊 Principais Insights de Growth obtidos no Python
 
 ### 1. Matriz de Coorte por Canal de Aquisição
-Ao quebrar a análise de Cohort horizontal utilizando a coluna `acquisition_channel` de e-mail, as métricas revelaram um cenário crítico:
+Ao quebrar a análise de Cohort horizontal utilizando a coluna `acquisition_channel` de e-mail, as métricas revelaram um cenário crítico
 
 * Resiliência a Longo Prazo (Safra 2023-01): "A coorte de Janeiro (2023-01) mostra um engajamento fantástico. Mesmo após 7 meses de cadastro (período 7), a retenção volta a atingir 100%. Isso prova que o usuário adquirido via e-mail cria um hábito de leitura sólido e consistente de longo prazo, mantendo o produto vivo na rotina dele.
 
